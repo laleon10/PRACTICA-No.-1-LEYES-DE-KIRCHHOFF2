@@ -1,3 +1,5 @@
+Lnin León solo.
+
 # PRACTICA-No.-1-LEYES-DE-KIRCHHOFF2
 LEYES-DE-KIRCHHOFF
 # El objetivo general:
