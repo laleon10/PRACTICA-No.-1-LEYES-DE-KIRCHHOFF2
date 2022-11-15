@@ -89,7 +89,7 @@ la Ley de Ohm para obtener los voltajes
  
  #llenamos las tablas:
  
- ![image](https://user-images.githubusercontent.com/116819463/201876205-1975e088-5cc9-43b8-a878-1588d6609d0d.png)
+![8](https://user-images.githubusercontent.com/116819463/201908760-1abf83eb-23ce-4451-8920-54f5bbf32da5.png)
 
   
 ![7](https://user-images.githubusercontent.com/116819463/201886678-e5f438c4-916b-4cbd-88ad-f7c3d89747f3.png)
@@ -97,6 +97,10 @@ la Ley de Ohm para obtener los voltajes
 Compare los resultados medidos con los valores obtenidos como resultado del análisis del circuito analítico y saque conclusiones.
 
 Se concluye que el mismo valor se obtiene al conectar el amperaje o voltaje con un cálculo analítico, debido a que el valor no debe cambiar y por lo tanto el margen no es grande.
+
+#video:
+
+https://youtu.be/MwoTxjyyHqU
 
 #coclusion:
 
